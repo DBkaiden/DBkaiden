@@ -1,4 +1,4 @@
-# Hi, I'm Kaiden <img height="20" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsc25jd2swNXI3Z2NhOGxkbWV0YWsycmprNThyYTJkbHZ5dTl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif"  />
+# Hi, I'm Kaiden <img height="26" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdsc25jd2swNXI3Z2NhOGxkbWV0YWsycmprNThyYTJkbHZ5dTl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6hKL8BI8rRNrMRFtAx/giphy.gif"  />
  
 Full-stack developer passionate about building high-impact web solutions.
  
