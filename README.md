@@ -54,6 +54,6 @@ My focus is on delivering real impact: optimizing performance, enhancing user ex
 </div>
 
 ---
- 
-Always open to interesting projects and collaborations.
+
+<p align="center">Always open to interesting projects and collaborations.</p>
  
